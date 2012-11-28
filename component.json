@@ -1,0 +1,14 @@
+{
+  "name": "three-stats",
+  "repo": "cvdlab/three-stats",
+  "description": "Three.js stats component",
+  "version": "0.0.1",
+  "keywords": [
+    "three.js",
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
