@@ -1,4 +1,7 @@
 {
+  "name": "three-stats",
+  "description": "three.js stats component",
+  "version": "0.1.0",
   "maintainers": [ 
     {
       "name": "Enrico Marino",
@@ -9,9 +12,6 @@
       "email": "federico.spini@gmail.com"
     }
   ],
-  "name": "three-stats",
-  "description": "three.js stats component",
-  "version": "0.2.0",
   "homepage": "https://github.com/cvdlab/three-stats",
   "repository": {
     "type": "git",
